@@ -1,0 +1,103 @@
+[
+    {
+      "name": "Curtain",
+      "description": "Elegant curtain perfect for living rooms.",
+      "price": "$49.99"
+    },
+    {
+      "name": "Vase",
+      "description": "Decorative vase to enhance your decor.",
+      "price": "$35.99"
+    },
+    {
+      "name": "PS4",
+      "description": "Powerful gaming console for entertainment.",
+      "price": "$299.99"
+    },
+    {
+      "name": "Accent Chair",
+      "description": "Comfortable chair with an ottoman.",
+      "price": "$189.99"
+    },
+    {
+      "name": "Cookware Set",
+      "description": "Versatile cookware bundle for your kitchen.",
+      "price": "$399.99"
+    },
+    {
+      "name": "Gucci Bag",
+      "description": "Luxury handbag made from premium leather.",
+      "price": "$1,490.00"
+    },
+    {
+      "name": "Backpack",
+      "description": "Stylish backpack for daily use.",
+      "price": "$59.99"
+    },
+    {
+      "name": "AirPods",
+      "description": "High-quality wireless earbuds.",
+      "price": "$129.99"
+    },
+    {
+      "name": "Bright Set",
+      "description": "Skincare set for a radiant glow.",
+      "price": "$45.00"
+    },
+    {
+      "name": "Echo",
+      "description": "Smart speaker with great sound.",
+      "price": "$79.99"
+    },
+    {
+      "name": "Polaroid Camera",
+      "description": "Instant camera for capturing moments.",
+      "price": "$99.99"
+    },
+    {
+      "name": "ID Tag",
+      "description": "Medical alert tag for safety.",
+      "price": "$12.99"
+    },
+    {
+      "name": "Versace Perfume",
+      "description": "Fragrance for a sophisticated scent.",
+      "price": "$55.00"
+    },
+    {
+      "name": "KitKat",
+      "description": "Classic chocolate-covered wafer bar.",
+      "price": "$1.99"
+    },
+    {
+      "name": "Nescafe",
+      "description": "Instant coffee for a flavorful cup.",
+      "price": "$7.99"
+    },
+    {
+      "name": "Sony Headphones",
+      "description": "Lightweight headphones for immersive sound.",
+      "price": "$49.99"
+    },
+    {
+      "name": "Sneakers",
+      "description": "Trendy sneakers for casual wear.",
+      "price": "$79.99"
+    },
+    {
+      "name": "Juice Bottles",
+      "description": "Bottles for storing fresh juices.",
+      "price": "$24.99"
+    },
+    {
+      "name": "Sheet Mask",
+      "description": "Hydrating mask for refreshed skin.",
+      "price": "$4.99"
+    },
+    {
+      "name": "Face Cream",
+      "description": "Nourishing cream for glowing skin.",
+      "price": "$14.99"
+    }
+  ]
+  

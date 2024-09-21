@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Curtain",
+    "image": "https://i.ibb.co/xGqQzX1/1curtain.jpg",
+    "description": "Elegant curtain perfect for living rooms.",
+    "price": "$49.99"
+  },
+  {
+    "name": "Vase",
+    "image": "https://i.ibb.co/cwHCRbW/2vase.jpg",
+    "description": "Decorative vase to enhance your decor.",
+    "price": "$35.99"
+  },
+  {
+    "name": "PS4",
+    "image": "https://i.ibb.co/6ghkQsS/3ps5.jpg",
+    "description": "Powerful gaming console for entertainment.",
+    "price": "$299.99"
+  },
+  {
+    "name": "Accent Chair",
+    "image": "https://i.ibb.co/DWT6fm2/4sofa.jpg",
+    "description": "Comfortable chair with an ottoman.",
+    "price": "$189.99"
+  },
+  {
+    "name": "Cookware Set",
+    "image": "https://i.ibb.co/871YJ0W/5pot.jpg",
+    "description": "Versatile cookware bundle for your kitchen.",
+    "price": "$399.99"
+  },
+  {
+    "name": "Gucci Bag",
+    "image": "https://i.ibb.co/dKr5jL5/6gucchi.jpg",
+    "description": "Luxury handbag made from premium leather.",
+    "price": "$1,490.00"
+  },
+  {
+    "name": "Backpack",
+    "image": "https://i.ibb.co/fFFN1pH/7bag.jpg",
+    "description": "Stylish backpack for daily use.",
+    "price": "$59.99"
+  },
+  {
+    "name": "AirPods",
+    "image": "https://i.ibb.co/K649MsZ/8airpods.jpg",
+    "description": "High-quality wireless earbuds.",
+    "price": "$129.99"
+  },
+  {
+    "name": "Bright Set",
+    "image": "https://i.ibb.co/SV5qrZH/9ordianry.jpg",
+    "description": "Skincare set for a radiant glow.",
+    "price": "$45.00"
+  },
+  {
+    "name": "Echo",
+    "image": "https://i.ibb.co/bb2RSHS/10amazon.jpg",
+    "description": "Smart speaker with great sound.",
+    "price": "$79.99"
+  },
+  {
+    "name": "Polaroid Camera",
+    "image": "https://i.ibb.co/C2NJX3n/11polaroid.jpg",
+    "description": "Instant camera for capturing moments.",
+    "price": "$99.99"
+  },
+  {
+    "name": "ID Tag",
+    "image": "https://i.ibb.co/3YRSby8/12watch.jpg",
+    "description": "Medical alert tag for safety.",
+    "price": "$12.99"
+  },
+  {
+    "name": "Versace Perfume",
+    "image": "https://i.ibb.co/JzxBCgP/13versace.jpg",
+    "description": "Fragrance for a sophisticated scent.",
+    "price": "$55.00"
+  },
+  {
+    "name": "KitKat",
+    "image": "https://i.ibb.co/KVm1zgv/14kitkat.jpg",
+    "description": "Classic chocolate-covered wafer bar.",
+    "price": "$1.99"
+  },
+  {
+    "name": "Nescafe",
+    "image": "https://i.ibb.co/PsLy1LZ/15coffee.jpg",
+    "description": "Instant coffee for a flavorful cup.",
+    "price": "$7.99"
+  },
+  {
+    "name": "Sony Headphones",
+    "image": "https://i.ibb.co/HDz6hNJ/16sony.jpg",
+    "description": "Lightweight headphones for immersive sound.",
+    "price": "$49.99"
+  },
+  {
+    "name": "Sneakers",
+    "image": "https://i.ibb.co/JQYmcCB/17shoe.jpg",
+    "description": "Trendy sneakers for casual wear.",
+    "price": "$79.99"
+  },
+  {
+    "name": "Juice Bottles",
+    "image": "https://i.ibb.co/sWzwXB0/18shot.jpg",
+    "description": "Bottles for storing fresh juices.",
+    "price": "$24.99"
+  },
+  {
+    "name": "Sheet Mask",
+    "image": "https://i.ibb.co/LJPyV6r/19facemask.jpg",
+    "description": "Hydrating mask for refreshed skin.",
+    "price": "$4.99"
+  },
+  {
+    "name": "Face Cream",
+    "image": "https://i.ibb.co/Z6Gg0Tx/20bioglow.jpg",
+    "description": "Nourishing cream for glowing skin.",
+    "price": "$14.99"
+  }
+]
